@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@uppy/audio": "workspace:^",
-    "@uppy/aws-s3": "workspace:^",
-    "@uppy/aws-s3-multipart": "workspace:^",
+    "@uppy/aws-s3": "0.26.0",
+    "@uppy/aws-s3-multipart": "0.26.0",
     "@uppy/box": "workspace:^",
     "@uppy/companion-client": "workspace:^",
     "@uppy/core": "workspace:^",
