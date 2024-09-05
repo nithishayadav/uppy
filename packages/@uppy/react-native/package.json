@@ -24,8 +24,8 @@
     "@uppy/core": "workspace:*",
     "@uppy/instagram": "workspace:^",
     "@uppy/url": "workspace:^",
-    "expo-document-picker": "^10.3.0",
-    "expo-image-picker": "^13.3.1",
+    "expo-document-picker": "^11.0.0",
+    "expo-image-picker": "^14.0.0",
     "react-native-super-grid": "*"
   },
   "peerDependencies": {
