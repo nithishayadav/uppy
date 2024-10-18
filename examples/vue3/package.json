@@ -13,7 +13,7 @@
     "@uppy/drag-drop": "workspace:*",
     "@uppy/progress-bar": "workspace:*",
     "@uppy/tus": "workspace:*",
-    "@uppy/vue": "workspace:*",
+    "@uppy/vue": "0.1.0",
     "vue": "^3.2.33"
   },
   "devDependencies": {
