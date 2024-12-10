@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/drag-drop": "workspace:*",
-    "@uppy/progress-bar": "workspace:*",
-    "@uppy/tus": "workspace:*",
-    "@uppy/vue": "workspace:*",
+    "@uppy/progress-bar": "0.26.0",
+    "@uppy/tus": "0.26.0",
+    "@uppy/vue": "0.1.0",
     "vue": "^3.2.33"
   },
   "devDependencies": {
