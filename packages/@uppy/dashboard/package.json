@@ -25,15 +25,15 @@
   "dependencies": {
     "@transloadit/prettier-bytes": "^0.2.0",
     "@uppy/informer": "workspace:^",
-    "@uppy/provider-views": "workspace:^",
+    "@uppy/provider-views": "0.26.0",
     "@uppy/status-bar": "workspace:^",
-    "@uppy/thumbnail-generator": "workspace:^",
-    "@uppy/utils": "workspace:^",
+    "@uppy/thumbnail-generator": "0.26.0",
+    "@uppy/utils": "0.26.0",
     "classnames": "^2.2.6",
     "is-shallow-equal": "^1.0.1",
     "lodash": "^4.17.21",
     "memoize-one": "^6.0.0",
-    "nanoid": "^4.0.0",
+    "nanoid": "^5.0.9",
     "preact": "^10.5.13"
   },
   "devDependencies": {
