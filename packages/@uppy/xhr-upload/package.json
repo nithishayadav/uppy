@@ -25,9 +25,9 @@
     "url": "git+https://github.com/transloadit/uppy.git"
   },
   "dependencies": {
-    "@uppy/companion-client": "workspace:^",
-    "@uppy/utils": "workspace:^",
-    "nanoid": "^4.0.0"
+    "@uppy/companion-client": "0.27.0",
+    "@uppy/utils": "0.26.0",
+    "nanoid": "^5.0.9"
   },
   "devDependencies": {
     "nock": "^13.1.0",
