@@ -24,10 +24,10 @@
   },
   "dependencies": {
     "@uppy/aws-s3-multipart": "workspace:^",
-    "@uppy/companion-client": "workspace:^",
-    "@uppy/utils": "workspace:^",
-    "@uppy/xhr-upload": "workspace:^",
-    "nanoid": "^4.0.0"
+    "@uppy/companion-client": "0.27.0",
+    "@uppy/utils": "0.26.0",
+    "@uppy/xhr-upload": "0.26.0",
+    "nanoid": "^5.0.9"
   },
   "devDependencies": {
     "vitest": "^0.34.5",
