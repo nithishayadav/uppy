@@ -4,7 +4,7 @@
   "type": "module",
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
     "@uppy/golden-retriever": "workspace:*"
   },
   "devDependencies": {
