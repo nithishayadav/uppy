@@ -7,8 +7,8 @@
     "@uppy/dashboard": "workspace:*",
     "@uppy/drop-target": "workspace:*",
     "@uppy/image-editor": "workspace:*",
-    "@uppy/remote-sources": "workspace:*",
-    "@uppy/transloadit": "workspace:*",
+    "@uppy/remote-sources": "0.1.0",
+    "@uppy/transloadit": "0.26.0",
     "@uppy/webcam": "workspace:*",
     "marked": "^4.0.18"
   },
