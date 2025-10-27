@@ -4,8 +4,8 @@
   "type": "module",
   "dependencies": {
     "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
-    "@uppy/webcam": "workspace:*",
+    "@uppy/dashboard": "0.26.0",
+    "@uppy/webcam": "0.26.0",
     "@uppy/xhr-upload": "workspace:*",
     "formidable": "^3.2.4"
   },
