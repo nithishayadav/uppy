@@ -11,7 +11,7 @@
     "@uppy/core": "workspace:*",
     "@uppy/dashboard": "workspace:*",
     "@uppy/drag-drop": "workspace:*",
-    "@uppy/progress-bar": "workspace:*",
+    "@uppy/progress-bar": "0.26.0",
     "@uppy/transloadit": "workspace:*",
     "@uppy/vue": "workspace:*",
     "vue": "^2.6.14"
