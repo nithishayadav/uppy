@@ -13,7 +13,7 @@
   "dependencies": {
     "@angular/animations": "^16.2.0",
     "@angular/common": "^16.2.0",
-    "@angular/compiler": "^16.2.0",
+    "@angular/compiler": "^19.2.17",
     "@angular/core": "^16.2.0",
     "@angular/forms": "^16.2.0",
     "@angular/platform-browser": "^16.2.0",
@@ -24,8 +24,8 @@
     "@uppy/drag-drop": "workspace:*",
     "@uppy/google-drive": "workspace:*",
     "@uppy/progress-bar": "workspace:*",
-    "@uppy/tus": "workspace:*",
-    "@uppy/webcam": "workspace:*",
+    "@uppy/tus": "0.26.0",
+    "@uppy/webcam": "0.26.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
