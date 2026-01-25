@@ -4,10 +4,10 @@
   "type": "module",
   "dependencies": {
     "@uppy/companion-client": "workspace:*",
-    "@uppy/core": "workspace:*",
-    "@uppy/dashboard": "workspace:*",
-    "@uppy/google-drive": "workspace:*",
-    "@uppy/provider-views": "workspace:*",
+    "@uppy/core": "0.26.0",
+    "@uppy/dashboard": "0.26.0",
+    "@uppy/google-drive": "0.26.0",
+    "@uppy/provider-views": "0.26.0",
     "@uppy/tus": "workspace:*",
     "preact": "^10.5.13"
   },
